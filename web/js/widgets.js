@@ -4621,7 +4621,7 @@ app.registerExtension({
 				This setting are required to use "[0246.Cloud]" node.
 			`,
 			type: "boolean",
-			defaultValue: true,
+			defaultValue: false,
 		});
 
 		app.ui.settings.addSetting({
